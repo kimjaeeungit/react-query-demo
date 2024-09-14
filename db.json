@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": 1, "title": "html css 공부33" },
+    { "id": 2, "title": "javascript 공부" },
+    { "id": 3, "title": "react 공부" },
+    { "id": 4, "title": "나의 프로젝트 만들기" }
+  ]
+}
